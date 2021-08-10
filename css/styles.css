@@ -1,0 +1,12 @@
+body {
+  font-family: 'Comfortaa', cursive;
+  background: linear-gradient(rgb(137, 164, 232) 31%, rgb(230, 203, 134) 75%)
+  
+}
+
+
+h1 {
+  text-shadow: 2px 2px grey;
+  text-align: center;
+  color: white
+}
