@@ -3,10 +3,22 @@ body {
   background: linear-gradient(rgb(137, 164, 232) 31%, rgb(230, 203, 134) 75%)
   
 }
-
+p {
+  text-align: center;
+}
+button {
+  background-color: green;
+  color: white
+  
+}
 
 h1 {
   text-shadow: 2px 2px grey;
   text-align: center;
   color: white
+}
+
+h2 {
+  color: white
+
 }
